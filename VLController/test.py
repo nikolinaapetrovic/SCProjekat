@@ -1,22 +1,10 @@
-import numpy as np
+from keras.optimizers import SGD
+from keras.models import Sequential
+from keras.layers.core import Dense, Flatten
+import keras
 import cv2
 import os
-import keras
-import matplotlib.pyplot as plt
-
-from keras.optimizers import SGD
-from keras.optimizers import Adam
-
-from keras import backend as K
-from keras.models import Sequential
-from keras.layers import Activation
-from keras.layers import Conv2D
-from keras.layers.core import Dense, Flatten
-from keras.metrics import categorical_crossentropy
-from keras.preprocessing.image import ImageDataGenerator
-from keras.layers.normalization import BatchNormalization
-from matplotlib import pyplot as plt
-from sklearn.metrics import confusion_matrix
+import numpy as np
 
 def scale_to_range(image):
     return image/255
