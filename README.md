@@ -13,23 +13,23 @@ U folderu VLController se nalazi sačuvan istreniran model aplikacije. Njegova i
 Dostupne komande u samoj aplikaciji su:
 
 
-![Mute](vlcontroler/data/mute.jpg) 
+![Mute](vlcontroller/data/mute.jpg) 
 
 Mutiranje zvuka video snimka
 
-![pause](vlcontroler/data/pause.jpg) 
+![pause](vlcontroller/data/pause.jpg) 
 
 Pauziranje video snimka
 
-![resume](vlcontroler/data/resume.jpg) 
+![resume](vlcontroller/data/resume.jpg) 
 
 Ponovno pokretanje video snimka
 
-![volumeup](vlcontroler/data/volumeup.jpg) 
+![volumeup](vlcontroller/data/volumeup.jpg) 
 
 Pojačavanje zvuka video snimka
 
-![volumedown](vlcontroler/data/volumedown.jpg) 
+![volumedown](vlcontroller/data/volumedown.jpg) 
 
 Smanjivanje zvuka video snimka
 
