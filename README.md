@@ -9,7 +9,7 @@ pip install python-vlc
 
 ## Pokretanje aplikacije
 U folderu VLController se nalazi sačuvan istreniran model aplikacije. Njegova implementacija se nalazi u fajlu ```tain.py```. Pokretanjem ```auto-player.py``` se pokreće aplikacija. Test primeri se nalaze u fajlu ```test.py```, gde se može videti i procenat tačnosti datih test primera.
-##Komande
+## Komande
 Dostupne komande u samoj aplikaciji su:
 
 
